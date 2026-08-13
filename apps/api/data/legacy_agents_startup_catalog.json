@@ -1,0 +1,578 @@
+[
+  {
+    "id": "email-follow-up-composer",
+    "title": "Email Follow-Up Composer",
+    "domain": "Communications",
+    "path": "email_auto_responder_flow/email_auto_responder_flow/src/email_auto_responder_flow/crews/email_filter_crew/config/agents.yaml",
+    "excerpt": "Composes decision-aware follow-up emails and draft responses for operational workflows.",
+    "source": "email_auto_responder_flow",
+    "capability_tags": [
+      "email",
+      "follow-up",
+      "smtp-ready"
+    ],
+    "good_for": [
+      "Composes decision-aware follow-up emails and draft responses for operational workflows.",
+      "workflow automation",
+      "structured output"
+    ],
+    "artifact_type": "workflow_agent"
+  },
+  {
+    "id": "finance-bookkeeper-controller",
+    "title": "Bookkeeper & Controller",
+    "domain": "Finance",
+    "path": "finance/finance/finance-bookkeeper-controller.md",
+    "excerpt": "Expert bookkeeper and controller specializing in day-to-day accounting operations, financial reconciliations, month-end close processes, and internal controls. Ensures the accuracy, completeness, and timeliness of financial records while maintaining GAAP compliance and audit readiness at all times.",
+    "source": "finance",
+    "capability_tags": [
+      "audit",
+      "operations"
+    ],
+    "good_for": [
+      "Expert bookkeeper and controller specializing in day-to-day accounting oper",
+      "Finance decisions",
+      "operator handoff"
+    ],
+    "artifact_type": "specialist_agent"
+  },
+  {
+    "id": "finance-fpa-analyst",
+    "title": "FP&A Analyst",
+    "domain": "Finance",
+    "path": "finance/finance/finance-fpa-analyst.md",
+    "excerpt": "Expert Financial Planning & Analysis (FP&A) analyst specializing in budgeting, variance analysis, financial planning, rolling forecasts, and strategic decision support. Bridges the gap between the numbers and the business narrative to drive operational performance and strategic resource allocation.",
+    "source": "finance",
+    "capability_tags": [
+      "forecast"
+    ],
+    "good_for": [
+      "Expert Financial Planning & Analysis (FP&A) analyst specializing in budgeti",
+      "Finance decisions",
+      "operator handoff"
+    ],
+    "artifact_type": "specialist_agent"
+  },
+  {
+    "id": "finance-financial-analyst",
+    "title": "Financial Analyst",
+    "domain": "Finance",
+    "path": "finance/finance/finance-financial-analyst.md",
+    "excerpt": "Expert financial analyst specializing in financial modeling, forecasting, scenario analysis, and data-driven decision support. Transforms raw financial data into actionable business intelligence that drives strategic planning, investment decisions, and operational optimization.",
+    "source": "finance",
+    "capability_tags": [
+      "forecast",
+      "model"
+    ],
+    "good_for": [
+      "Expert financial analyst specializing in financial modeling, forecasting, s",
+      "Finance decisions",
+      "operator handoff"
+    ],
+    "artifact_type": "specialist_agent"
+  },
+  {
+    "id": "finance-investment-researcher",
+    "title": "Investment Researcher",
+    "domain": "Finance",
+    "path": "finance/finance/finance-investment-researcher.md",
+    "excerpt": "Expert investment researcher specializing in market research, due diligence, portfolio analysis, and asset valuation. Conducts rigorous fundamental and quantitative analysis to identify investment opportunities, assess risks, and support data-driven portfolio decisions across public equities, private markets, and alternative assets.",
+    "source": "finance",
+    "capability_tags": [
+      "research"
+    ],
+    "good_for": [
+      "Expert investment researcher specializing in market research, due diligence",
+      "Finance decisions",
+      "operator handoff"
+    ],
+    "artifact_type": "specialist_agent"
+  },
+  {
+    "id": "finance-tax-strategist",
+    "title": "Tax Strategist",
+    "domain": "Finance",
+    "path": "finance/finance/finance-tax-strategist.md",
+    "excerpt": "Expert tax strategist specializing in tax optimization, multi-jurisdictional compliance, transfer pricing, and strategic tax planning. Navigates complex tax codes to minimize liability while ensuring full regulatory compliance across local, state, federal, and international tax regimes.",
+    "source": "finance",
+    "capability_tags": [
+      "tax",
+      "pricing"
+    ],
+    "good_for": [
+      "Expert tax strategist specializing in tax optimization, multi-jurisdictiona",
+      "Finance decisions",
+      "operator handoff"
+    ],
+    "artifact_type": "specialist_agent"
+  },
+  {
+    "id": "product-launch-intelligence-agent",
+    "title": "Product Launch Intelligence Agent",
+    "domain": "Launch Intelligence",
+    "path": "product_launch_intelligence_agent/product_launch_intelligence_agent/product_launch_intelligence_agent.py",
+    "excerpt": "Synthesizes launch signals into readiness risks, launch brief, positioning gaps, and next actions.",
+    "source": "product_launch_intelligence_agent",
+    "capability_tags": [
+      "launch",
+      "market",
+      "readiness"
+    ],
+    "good_for": [
+      "Synthesizes launch signals into readiness risks, launch brief, positioning gaps, and next actions.",
+      "workflow automation",
+      "structured output"
+    ],
+    "artifact_type": "workflow_agent"
+  },
+  {
+    "id": "meeting-action-extractor",
+    "title": "Meeting Action Extractor",
+    "domain": "Meeting Ops",
+    "path": "meeting_assistant_flow/meeting_assistant_flow/src/meeting_assistant_flow/crews/meeting_assistant_crew/config/agents.yaml",
+    "excerpt": "Analyzes transcripts into decisions, action items, owners, deadlines, and follow-up tasks.",
+    "source": "meeting_assistant_flow",
+    "capability_tags": [
+      "meeting",
+      "summary",
+      "tasks"
+    ],
+    "good_for": [
+      "Analyzes transcripts into decisions, action items, owners, deadlines, and follow-up tasks.",
+      "workflow automation",
+      "structured output"
+    ],
+    "artifact_type": "workflow_agent"
+  },
+  {
+    "id": "paid-media-creative-strategist",
+    "title": "Ad Creative Strategist",
+    "domain": "Paid Media",
+    "path": "paid-media/paid-media/paid-media-creative-strategist.md",
+    "excerpt": "Paid media creative specialist focused on ad copywriting, RSA optimization, asset group design, and creative testing frameworks across Google, Meta, Microsoft, and programmatic platforms. Bridges the gap between performance data and persuasive messaging.",
+    "source": "paid-media",
+    "capability_tags": [
+      "creative"
+    ],
+    "good_for": [
+      "Paid media creative specialist focused on ad copywriting, RSA optimization,",
+      "Paid Media decisions",
+      "operator handoff"
+    ],
+    "artifact_type": "specialist_agent"
+  },
+  {
+    "id": "paid-media-ppc-strategist",
+    "title": "PPC Campaign Strategist",
+    "domain": "Paid Media",
+    "path": "paid-media/paid-media/paid-media-ppc-strategist.md",
+    "excerpt": "Senior paid media strategist specializing in large-scale search, shopping, and performance max campaign architecture across Google, Microsoft, and Amazon ad platforms. Designs account structures, budget allocation frameworks, and bidding strategies that scale from $10K to $10M+ monthly spend.",
+    "source": "paid-media",
+    "capability_tags": [
+      "campaign"
+    ],
+    "good_for": [
+      "Senior paid media strategist specializing in large-scale search, shopping, ",
+      "Paid Media decisions",
+      "operator handoff"
+    ],
+    "artifact_type": "specialist_agent"
+  },
+  {
+    "id": "paid-media-auditor",
+    "title": "Paid Media Auditor",
+    "domain": "Paid Media",
+    "path": "paid-media/paid-media/paid-media-auditor.md",
+    "excerpt": "Comprehensive paid media auditor who systematically evaluates Google Ads, Microsoft Ads, and Meta accounts across 200+ checkpoints spanning account structure, tracking, bidding, creative, audiences, and competitive positioning. Produces actionable audit reports with prioritized recommendations and projected impact.",
+    "source": "paid-media",
+    "capability_tags": [
+      "audit",
+      "creative",
+      "tracking",
+      "project"
+    ],
+    "good_for": [
+      "Comprehensive paid media auditor who systematically evaluates Google Ads, M",
+      "Paid Media decisions",
+      "operator handoff"
+    ],
+    "artifact_type": "specialist_agent"
+  },
+  {
+    "id": "paid-media-paid-social-strategist",
+    "title": "Paid Social Strategist",
+    "domain": "Paid Media",
+    "path": "paid-media/paid-media/paid-media-paid-social-strategist.md",
+    "excerpt": "Cross-platform paid social advertising specialist covering Meta (Facebook/Instagram), LinkedIn, TikTok, Pinterest, X, and Snapchat. Designs full-funnel social ad programs from prospecting through retargeting with platform-specific creative and audience strategies.",
+    "source": "paid-media",
+    "capability_tags": [
+      "creative"
+    ],
+    "good_for": [
+      "Cross-platform paid social advertising specialist covering Meta (Facebook/I",
+      "Paid Media decisions",
+      "operator handoff"
+    ],
+    "artifact_type": "specialist_agent"
+  },
+  {
+    "id": "paid-media-programmatic-buyer",
+    "title": "Programmatic & Display Buyer",
+    "domain": "Paid Media",
+    "path": "paid-media/paid-media/paid-media-programmatic-buyer.md",
+    "excerpt": "Display advertising and programmatic media buying specialist covering managed placements, Google Display Network, DV360, trade desk platforms, partner media (newsletters, sponsored content), and ABM display strategies via platforms like Demandbase and 6Sense.",
+    "source": "paid-media",
+    "capability_tags": [
+      "paid-media"
+    ],
+    "good_for": [
+      "Display advertising and programmatic media buying specialist covering manag",
+      "Paid Media decisions",
+      "operator handoff"
+    ],
+    "artifact_type": "specialist_agent"
+  },
+  {
+    "id": "paid-media-search-query-analyst",
+    "title": "Search Query Analyst",
+    "domain": "Paid Media",
+    "path": "paid-media/paid-media/paid-media-search-query-analyst.md",
+    "excerpt": "Specialist in search term analysis, negative keyword architecture, and query-to-intent mapping. Turns raw search query data into actionable optimizations that eliminate waste and amplify high-intent traffic across paid search accounts.",
+    "source": "paid-media",
+    "capability_tags": [
+      "paid-media"
+    ],
+    "good_for": [
+      "Specialist in search term analysis, negative keyword architecture, and quer",
+      "Paid Media decisions",
+      "operator handoff"
+    ],
+    "artifact_type": "specialist_agent"
+  },
+  {
+    "id": "paid-media-tracking-specialist",
+    "title": "Tracking & Measurement Specialist",
+    "domain": "Paid Media",
+    "path": "paid-media/paid-media/paid-media-tracking-specialist.md",
+    "excerpt": "Expert in conversion tracking architecture, tag management, and attribution modeling across Google Tag Manager, GA4, Google Ads, Meta CAPI, LinkedIn Insight Tag, and server-side implementations. Ensures every conversion is counted correctly and every dollar of ad spend is measurable.",
+    "source": "paid-media",
+    "capability_tags": [
+      "tracking",
+      "model"
+    ],
+    "good_for": [
+      "Expert in conversion tracking architecture, tag management, and attribution",
+      "Paid Media decisions",
+      "operator handoff"
+    ],
+    "artifact_type": "specialist_agent"
+  },
+  {
+    "id": "product-behavioral-nudge-engine",
+    "title": "Behavioral Nudge Engine",
+    "domain": "Product",
+    "path": "product/product/product-behavioral-nudge-engine.md",
+    "excerpt": "Behavioral psychology specialist that adapts software interaction cadences and styles to maximize user motivation and success.",
+    "source": "product",
+    "capability_tags": [
+      "product"
+    ],
+    "good_for": [
+      "Behavioral psychology specialist that adapts software interaction cadences ",
+      "Product decisions",
+      "operator handoff"
+    ],
+    "artifact_type": "specialist_agent"
+  },
+  {
+    "id": "product-feedback-synthesizer",
+    "title": "Feedback Synthesizer",
+    "domain": "Product",
+    "path": "product/product/product-feedback-synthesizer.md",
+    "excerpt": "Expert in collecting, analyzing, and synthesizing user feedback from multiple channels to extract actionable product insights. Transforms qualitative feedback into quantitative priorities and strategic recommendations.",
+    "source": "product",
+    "capability_tags": [
+      "feedback"
+    ],
+    "good_for": [
+      "Expert in collecting, analyzing, and synthesizing user feedback from multip",
+      "Product decisions",
+      "operator handoff"
+    ],
+    "artifact_type": "specialist_agent"
+  },
+  {
+    "id": "product-manager",
+    "title": "Product Manager",
+    "domain": "Product",
+    "path": "product/product/product-manager.md",
+    "excerpt": "Holistic product leader who owns the full product lifecycle \u2014 from discovery and strategy through roadmap, stakeholder alignment, go-to-market, and outcome measurement. Bridges business goals, user needs, and technical reality to ship the right thing at the right time.",
+    "source": "product",
+    "capability_tags": [
+      "roadmap"
+    ],
+    "good_for": [
+      "Holistic product leader who owns the full product lifecycle \u2014 from discover",
+      "Product decisions",
+      "operator handoff"
+    ],
+    "artifact_type": "specialist_agent"
+  },
+  {
+    "id": "product-sprint-prioritizer",
+    "title": "Sprint Prioritizer",
+    "domain": "Product",
+    "path": "product/product/product-sprint-prioritizer.md",
+    "excerpt": "Expert product manager specializing in agile sprint planning, feature prioritization, and resource allocation. Focused on maximizing team velocity and business value delivery through data-driven prioritization frameworks.",
+    "source": "product",
+    "capability_tags": [
+      "sprint"
+    ],
+    "good_for": [
+      "Expert product manager specializing in agile sprint planning, feature prior",
+      "Product decisions",
+      "operator handoff"
+    ],
+    "artifact_type": "specialist_agent"
+  },
+  {
+    "id": "product-trend-researcher",
+    "title": "Trend Researcher",
+    "domain": "Product",
+    "path": "product/product/product-trend-researcher.md",
+    "excerpt": "Expert market intelligence analyst specializing in identifying emerging trends, competitive analysis, and opportunity assessment. Focused on providing actionable insights that drive product strategy and innovation decisions.",
+    "source": "product",
+    "capability_tags": [
+      "research"
+    ],
+    "good_for": [
+      "Expert market intelligence analyst specializing in identifying emerging tre",
+      "Product decisions",
+      "operator handoff"
+    ],
+    "artifact_type": "specialist_agent"
+  },
+  {
+    "id": "project-management-experiment-tracker",
+    "title": "Experiment Tracker",
+    "domain": "Project Management",
+    "path": "project-management/project-management/project-management-experiment-tracker.md",
+    "excerpt": "Expert project manager specializing in experiment design, execution tracking, and data-driven decision making. Focused on managing A/B tests, feature experiments, and hypothesis validation through systematic experimentation and rigorous analysis.",
+    "source": "project-management",
+    "capability_tags": [
+      "tracking",
+      "experiment",
+      "project"
+    ],
+    "good_for": [
+      "Expert project manager specializing in experiment design, execution trackin",
+      "Project Management decisions",
+      "operator handoff"
+    ],
+    "artifact_type": "specialist_agent"
+  },
+  {
+    "id": "project-management-jira-workflow-steward",
+    "title": "Jira Workflow Steward",
+    "domain": "Project Management",
+    "path": "project-management/project-management/project-management-jira-workflow-steward.md",
+    "excerpt": "Expert delivery operations specialist who enforces Jira-linked Git workflows, traceable commits, structured pull requests, and release-safe branch strategy across software teams.",
+    "source": "project-management",
+    "capability_tags": [
+      "operations",
+      "jira",
+      "project"
+    ],
+    "good_for": [
+      "Expert delivery operations specialist who enforces Jira-linked Git workflow",
+      "Project Management decisions",
+      "operator handoff"
+    ],
+    "artifact_type": "specialist_agent"
+  },
+  {
+    "id": "project-management-project-shepherd",
+    "title": "Project Shepherd",
+    "domain": "Project Management",
+    "path": "project-management/project-management/project-management-project-shepherd.md",
+    "excerpt": "Expert project manager specializing in cross-functional project coordination, timeline management, and stakeholder alignment. Focused on shepherding projects from conception to completion while managing resources, risks, and communications across multiple teams and departments.",
+    "source": "project-management",
+    "capability_tags": [
+      "project"
+    ],
+    "good_for": [
+      "Expert project manager specializing in cross-functional project coordinatio",
+      "Project Management decisions",
+      "operator handoff"
+    ],
+    "artifact_type": "specialist_agent"
+  },
+  {
+    "id": "project-manager-senior",
+    "title": "Senior Project Manager",
+    "domain": "Project Management",
+    "path": "project-management/project-management/project-manager-senior.md",
+    "excerpt": "Converts specs to tasks and remembers previous projects. Focused on realistic scope, no background processes, exact spec requirements",
+    "source": "project-management",
+    "capability_tags": [
+      "project"
+    ],
+    "good_for": [
+      "Converts specs to tasks and remembers previous projects",
+      "Project Management decisions",
+      "operator handoff"
+    ],
+    "artifact_type": "specialist_agent"
+  },
+  {
+    "id": "project-management-studio-operations",
+    "title": "Studio Operations",
+    "domain": "Project Management",
+    "path": "project-management/project-management/project-management-studio-operations.md",
+    "excerpt": "Expert operations manager specializing in day-to-day studio efficiency, process optimization, and resource coordination. Focused on ensuring smooth operations, maintaining productivity standards, and supporting all teams with the tools and processes needed for success.",
+    "source": "project-management",
+    "capability_tags": [
+      "operations",
+      "project"
+    ],
+    "good_for": [
+      "Expert operations manager specializing in day-to-day studio efficiency, pro",
+      "Project Management decisions",
+      "operator handoff"
+    ],
+    "artifact_type": "specialist_agent"
+  },
+  {
+    "id": "project-management-studio-producer",
+    "title": "Studio Producer",
+    "domain": "Project Management",
+    "path": "project-management/project-management/project-management-studio-producer.md",
+    "excerpt": "Senior strategic leader specializing in high-level creative and technical project orchestration, resource allocation, and multi-project portfolio management. Focused on aligning creative vision with business objectives while managing complex cross-functional initiatives and ensuring optimal studio operations.",
+    "source": "project-management",
+    "capability_tags": [
+      "creative",
+      "operations",
+      "project"
+    ],
+    "good_for": [
+      "Senior strategic leader specializing in high-level creative and technical p",
+      "Project Management decisions",
+      "operator handoff"
+    ],
+    "artifact_type": "specialist_agent"
+  },
+  {
+    "id": "ai-domain-research-agent",
+    "title": "AI Domain Research Agent",
+    "domain": "Research",
+    "path": "ai_domain_deep_research_agent/ai_domain_deep_research_agent/ai_domain_deep_research_agent.py",
+    "excerpt": "Performs domain research planning and converts a research goal into sources, questions, and synthesis tasks.",
+    "source": "ai_domain_deep_research_agent",
+    "capability_tags": [
+      "research",
+      "market",
+      "synthesis"
+    ],
+    "good_for": [
+      "Performs domain research planning and converts a research goal into sources, questions, and synthesis tasks.",
+      "workflow automation",
+      "structured output"
+    ],
+    "artifact_type": "workflow_agent"
+  },
+  {
+    "id": "cross-functional-handoff-designer",
+    "title": "Cross-Functional Handoff Designer",
+    "domain": "Strategy",
+    "path": "strategy/strategy/coordination/handoff-templates.md",
+    "excerpt": "Creates clean handoff templates between strategy, product, media, finance, and delivery owners.",
+    "source": "strategy",
+    "capability_tags": [
+      "handoff",
+      "coordination",
+      "execution"
+    ],
+    "good_for": [
+      "Creates clean handoff templates between strategy, product, media, finance, and delivery owners.",
+      "executive brief",
+      "decision memo"
+    ],
+    "artifact_type": "strategy_playbook"
+  },
+  {
+    "id": "enterprise-feature-strategy-lead",
+    "title": "Enterprise Feature Strategy Lead",
+    "domain": "Strategy",
+    "path": "strategy/strategy/runbooks/scenario-enterprise-feature.md",
+    "excerpt": "Frames enterprise feature tradeoffs, stakeholders, risk, delivery constraints, and release criteria.",
+    "source": "strategy",
+    "capability_tags": [
+      "enterprise",
+      "feature",
+      "risk"
+    ],
+    "good_for": [
+      "Frames enterprise feature tradeoffs, stakeholders, risk, delivery constraints, and release criteria.",
+      "executive brief",
+      "decision memo"
+    ],
+    "artifact_type": "strategy_playbook"
+  },
+  {
+    "id": "marketing-campaign-strategist",
+    "title": "Marketing Campaign Strategist",
+    "domain": "Strategy",
+    "path": "strategy/strategy/runbooks/scenario-marketing-campaign.md",
+    "excerpt": "Connects audience, offer, channel, creative, tracking, and budget decisions into campaign execution.",
+    "source": "strategy",
+    "capability_tags": [
+      "campaign",
+      "offer",
+      "tracking"
+    ],
+    "good_for": [
+      "Connects audience, offer, channel, creative, tracking, and budget decisions into campaign execution.",
+      "executive brief",
+      "decision memo"
+    ],
+    "artifact_type": "strategy_playbook"
+  },
+  {
+    "id": "nexus-strategy-architect",
+    "title": "Nexus Strategy Architect",
+    "domain": "Strategy",
+    "path": "strategy/strategy/nexus-strategy.md",
+    "excerpt": "Turns ambiguous startup goals into phased strategic choices, handoffs, and operating cadence.",
+    "source": "strategy",
+    "capability_tags": [
+      "strategy",
+      "positioning",
+      "operating cadence"
+    ],
+    "good_for": [
+      "Turns ambiguous startup goals into phased strategic choices, handoffs, and operating cadence.",
+      "executive brief",
+      "decision memo"
+    ],
+    "artifact_type": "strategy_playbook"
+  },
+  {
+    "id": "startup-mvp-runbook-planner",
+    "title": "Startup MVP Runbook Planner",
+    "domain": "Strategy",
+    "path": "strategy/strategy/runbooks/scenario-startup-mvp.md",
+    "excerpt": "Structures MVP scope, validation experiments, build priorities, and launch-readiness checks.",
+    "source": "strategy",
+    "capability_tags": [
+      "mvp",
+      "validation",
+      "launch"
+    ],
+    "good_for": [
+      "Structures MVP scope, validation experiments, build priorities, and launch-readiness checks.",
+      "executive brief",
+      "decision memo"
+    ],
+    "artifact_type": "strategy_playbook"
+  }
+]

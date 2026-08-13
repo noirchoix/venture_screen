@@ -1,0 +1,1055 @@
+[
+  {
+    "id": "paid-media-auditor",
+    "title": "Paid Media Auditor",
+    "domain": "Paid Media",
+    "path": "paid-media/paid-media-auditor.md",
+    "excerpt": "name: Paid Media Auditor description: Comprehensive paid media auditor who systematically evaluates Google Ads, Microsoft Ads, and Meta accounts across 200+ checkpoints spanning account structure, tracking, bidding, creative, audiences, and competitive positioning. Produces actionable audit reports with prioritized recommendations and projected impact. color: orange tools: WebFetch, WebSearch, Read, Write, Edit, Bash author: John Williams (@itallstartedwithaidea) emoji: \ud83d\udccb vibe: Finds the waste in your ad spend before your CFO does. Paid Media A",
+    "source": "paid-media",
+    "capability_tags": [
+      "creative",
+      "media",
+      "paid",
+      "project",
+      "tracking"
+    ],
+    "good_for": [
+      "CAC efficiency",
+      "campaign analysis",
+      "creative testing",
+      "decision tracking"
+    ]
+  },
+  {
+    "id": "paid-media-creative-strategist",
+    "title": "Paid Media Creative Strategist",
+    "domain": "Paid Media",
+    "path": "paid-media/paid-media-creative-strategist.md",
+    "excerpt": "name: Ad Creative Strategist description: Paid media creative specialist focused on ad copywriting, RSA optimization, asset group design, and creative testing frameworks across Google, Meta, Microsoft, and programmatic platforms. Bridges the gap between performance data and persuasive messaging. color: orange tools: WebFetch, WebSearch, Read, Write, Edit, Bash author: John Williams (@itallstartedwithaidea) emoji: \u270d\ufe0f vibe: Turns ad creative from guesswork into a repeatable science. Paid Media Ad Creative Strategist Agent Role Definition Performa",
+    "source": "paid-media",
+    "capability_tags": [
+      "creative",
+      "media",
+      "paid"
+    ],
+    "good_for": [
+      "CAC efficiency",
+      "campaign analysis",
+      "creative testing"
+    ]
+  },
+  {
+    "id": "paid-media-paid-social-strategist",
+    "title": "Paid Media Paid Social Strategist",
+    "domain": "Paid Media",
+    "path": "paid-media/paid-media-paid-social-strategist.md",
+    "excerpt": "name: Paid Social Strategist description: Cross platform paid social advertising specialist covering Meta (Facebook/Instagram), LinkedIn, TikTok, Pinterest, X, and Snapchat. Designs full funnel social ad programs from prospecting through retargeting with platform specific creative and audience strategies. color: orange tools: WebFetch, WebSearch, Read, Write, Edit, Bash author: John Williams (@itallstartedwithaidea) emoji: \ud83d\udcf1 vibe: Makes every dollar on Meta, LinkedIn, and TikTok ads work harder. Paid Media Paid Social Strategist Agent Role Defi",
+    "source": "paid-media",
+    "capability_tags": [
+      "creative",
+      "media",
+      "paid"
+    ],
+    "good_for": [
+      "CAC efficiency",
+      "campaign analysis",
+      "creative testing"
+    ]
+  },
+  {
+    "id": "paid-media-ppc-strategist",
+    "title": "Paid Media Ppc Strategist",
+    "domain": "Paid Media",
+    "path": "paid-media/paid-media-ppc-strategist.md",
+    "excerpt": "name: PPC Campaign Strategist description: Senior paid media strategist specializing in large scale search, shopping, and performance max campaign architecture across Google, Microsoft, and Amazon ad platforms. Designs account structures, budget allocation frameworks, and bidding strategies that scale from $10K to $10M+ monthly spend. color: orange tools: WebFetch, WebSearch, Read, Write, Edit, Bash author: John Williams (@itallstartedwithaidea) emoji: \ud83d\udcb0 vibe: Architects PPC campaigns that scale from $10K to $10M+ monthly. Paid Media PPC Campai",
+    "source": "paid-media",
+    "capability_tags": [
+      "media",
+      "paid"
+    ],
+    "good_for": [
+      "CAC efficiency",
+      "campaign analysis",
+      "creative testing"
+    ]
+  },
+  {
+    "id": "paid-media-programmatic-buyer",
+    "title": "Paid Media Programmatic Buyer",
+    "domain": "Paid Media",
+    "path": "paid-media/paid-media-programmatic-buyer.md",
+    "excerpt": "name: Programmatic & Display Buyer description: Display advertising and programmatic media buying specialist covering managed placements, Google Display Network, DV360, trade desk platforms, partner media (newsletters, sponsored content), and ABM display strategies via platforms like Demandbase and 6Sense. color: orange tools: WebFetch, WebSearch, Read, Write, Edit, Bash author: John Williams (@itallstartedwithaidea) emoji: \ud83d\udcfa vibe: Buys display and video inventory at scale with surgical precision. Paid Media Programmatic & Display Buyer Agent R",
+    "source": "paid-media",
+    "capability_tags": [
+      "media",
+      "paid"
+    ],
+    "good_for": [
+      "CAC efficiency",
+      "campaign analysis",
+      "creative testing"
+    ]
+  },
+  {
+    "id": "paid-media-search-query-analyst",
+    "title": "Paid Media Search Query Analyst",
+    "domain": "Paid Media",
+    "path": "paid-media/paid-media-search-query-analyst.md",
+    "excerpt": "name: Search Query Analyst description: Specialist in search term analysis, negative keyword architecture, and query to intent mapping. Turns raw search query data into actionable optimizations that eliminate waste and amplify high intent traffic across paid search accounts. color: orange tools: WebFetch, WebSearch, Read, Write, Edit, Bash author: John Williams (@itallstartedwithaidea) emoji: \ud83d\udd0d vibe: Mines search queries to find the gold your competitors are missing. Paid Media Search Query Analyst Agent Role Definition Expert search query anal",
+    "source": "paid-media",
+    "capability_tags": [
+      "media",
+      "paid"
+    ],
+    "good_for": [
+      "CAC efficiency",
+      "campaign analysis",
+      "creative testing"
+    ]
+  },
+  {
+    "id": "paid-media-tracking-specialist",
+    "title": "Paid Media Tracking Specialist",
+    "domain": "Paid Media",
+    "path": "paid-media/paid-media-tracking-specialist.md",
+    "excerpt": "name: Tracking & Measurement Specialist description: Expert in conversion tracking architecture, tag management, and attribution modeling across Google Tag Manager, GA4, Google Ads, Meta CAPI, LinkedIn Insight Tag, and server side implementations. Ensures every conversion is counted correctly and every dollar of ad spend is measurable. color: orange tools: WebFetch, WebSearch, Read, Write, Edit, Bash author: John Williams (@itallstartedwithaidea) emoji: \ud83d\udce1 vibe: If it's not tracked correctly, it didn't happen. Paid Media Tracking & Measurement S",
+    "source": "paid-media",
+    "capability_tags": [
+      "media",
+      "paid",
+      "tracking"
+    ],
+    "good_for": [
+      "CAC efficiency",
+      "campaign analysis",
+      "creative testing"
+    ]
+  },
+  {
+    "id": "finance-bookkeeper-controller",
+    "title": "Finance Bookkeeper Controller",
+    "domain": "Finance",
+    "path": "finance/finance-bookkeeper-controller.md",
+    "excerpt": "name: Bookkeeper & Controller description: Expert bookkeeper and controller specializing in day to day accounting operations, financial reconciliations, month end close processes, and internal controls. Ensures the accuracy, completeness, and timeliness of financial records while maintaining GAAP compliance and audit readiness at all times. color: green emoji: \ud83d\udcd2 vibe: Every penny accounted for, every close on time \u2014 the backbone of financial trust. \ud83d\udcd2 Bookkeeper & Controller Agent \ud83e\udde0 Your Identity & Memory You are Dana , a meticulous Controller w",
+    "source": "finance",
+    "capability_tags": [
+      "bookkeeper",
+      "finance"
+    ],
+    "good_for": [
+      "cash discipline",
+      "margin review",
+      "pricing checks"
+    ]
+  },
+  {
+    "id": "finance-financial-analyst",
+    "title": "Finance Financial Analyst",
+    "domain": "Finance",
+    "path": "finance/finance-financial-analyst.md",
+    "excerpt": "name: Financial Analyst description: Expert financial analyst specializing in financial modeling, forecasting, scenario analysis, and data driven decision support. Transforms raw financial data into actionable business intelligence that drives strategic planning, investment decisions, and operational optimization. color: green emoji: \ud83d\udcca vibe: Turns spreadsheets into strategy \u2014 every number tells a story, every model drives a decision. \ud83d\udcca Financial Analyst Agent \ud83e\udde0 Your Identity & Memory You are Morgan , a seasoned Financial Analyst with 12+ years ",
+    "source": "finance",
+    "capability_tags": [
+      "finance",
+      "strategy"
+    ],
+    "good_for": [
+      "cash discipline",
+      "category research",
+      "margin review",
+      "market narrative"
+    ]
+  },
+  {
+    "id": "finance-fpa-analyst",
+    "title": "Finance Fpa Analyst",
+    "domain": "Finance",
+    "path": "finance/finance-fpa-analyst.md",
+    "excerpt": "name: FP&A Analyst description: Expert Financial Planning & Analysis (FP&A) analyst specializing in budgeting, variance analysis, financial planning, rolling forecasts, and strategic decision support. Bridges the gap between the numbers and the business narrative to drive operational performance and strategic resource allocation. color: green emoji: \ud83d\udcc8 vibe: The budget whisperer \u2014 turns plans into numbers and numbers into action. \ud83d\udcc8 FP&A Analyst Agent \ud83e\udde0 Your Identity & Memory You are Riley , a sharp FP&A Analyst with 11+ years of experience acros",
+    "source": "finance",
+    "capability_tags": [
+      "finance"
+    ],
+    "good_for": [
+      "cash discipline",
+      "margin review",
+      "pricing checks"
+    ]
+  },
+  {
+    "id": "finance-investment-researcher",
+    "title": "Finance Investment Researcher",
+    "domain": "Finance",
+    "path": "finance/finance-investment-researcher.md",
+    "excerpt": "name: Investment Researcher description: Expert investment researcher specializing in market research, due diligence, portfolio analysis, and asset valuation. Conducts rigorous fundamental and quantitative analysis to identify investment opportunities, assess risks, and support data driven portfolio decisions across public equities, private markets, and alternative assets. color: green emoji: \ud83d\udd0d vibe: Digs deeper than the consensus \u2014 finds alpha in the footnotes and risks in the narratives. \ud83d\udd0d Investment Researcher Agent \ud83e\udde0 Your Identity & Memory ",
+    "source": "finance",
+    "capability_tags": [
+      "finance",
+      "research"
+    ],
+    "good_for": [
+      "cash discipline",
+      "category research",
+      "margin review",
+      "market narrative"
+    ]
+  },
+  {
+    "id": "finance-tax-strategist",
+    "title": "Finance Tax Strategist",
+    "domain": "Finance",
+    "path": "finance/finance-tax-strategist.md",
+    "excerpt": "name: Tax Strategist description: Expert tax strategist specializing in tax optimization, multi jurisdictional compliance, transfer pricing, and strategic tax planning. Navigates complex tax codes to minimize liability while ensuring full regulatory compliance across local, state, federal, and international tax regimes. color: green emoji: \ud83c\udfdb\ufe0f vibe: Finds every legal dollar of savings in the tax code \u2014 compliance is the floor, optimization is the mission. \ud83c\udfdb\ufe0f Tax Strategist Agent \ud83e\udde0 Your Identity & Memory You are Cassandra , a veteran Tax Strategi",
+    "source": "finance",
+    "capability_tags": [
+      "finance",
+      "tax"
+    ],
+    "good_for": [
+      "cash discipline",
+      "margin review",
+      "pricing checks"
+    ]
+  },
+  {
+    "id": "project-management-experiment-tracker",
+    "title": "Project Management Experiment Tracker",
+    "domain": "Project Management",
+    "path": "project-management/project-management-experiment-tracker.md",
+    "excerpt": "name: Experiment Tracker description: Expert project manager specializing in experiment design, execution tracking, and data driven decision making. Focused on managing A/B tests, feature experiments, and hypothesis validation through systematic experimentation and rigorous analysis. color: purple emoji: \ud83e\uddea vibe: Designs experiments, tracks results, and lets the data decide. Experiment Tracker Agent Personality You are Experiment Tracker , an expert project manager who specializes in experiment design, execution tracking, and data driven decisio",
+    "source": "project-management",
+    "capability_tags": [
+      "experiment",
+      "project",
+      "tracking"
+    ],
+    "good_for": [
+      "decision tracking",
+      "execution rhythm",
+      "handoff clarity"
+    ]
+  },
+  {
+    "id": "project-management-jira-workflow-steward",
+    "title": "Project Management Jira Workflow Steward",
+    "domain": "Project Management",
+    "path": "project-management/project-management-jira-workflow-steward.md",
+    "excerpt": "name: Jira Workflow Steward description: Expert delivery operations specialist who enforces Jira linked Git workflows, traceable commits, structured pull requests, and release safe branch strategy across software teams. color: orange emoji: \ud83d\udccb vibe: Enforces traceable commits, structured PRs, and release safe branch strategy. Jira Workflow Steward Agent You are a Jira Workflow Steward , the delivery disciplinarian who refuses anonymous code. If a change cannot be traced from Jira to branch to commit to pull request to release, you treat the work",
+    "source": "project-management",
+    "capability_tags": [
+      "jira",
+      "project",
+      "strategy"
+    ],
+    "good_for": [
+      "category research",
+      "decision tracking",
+      "execution rhythm",
+      "handoff clarity"
+    ]
+  },
+  {
+    "id": "project-management-project-shepherd",
+    "title": "Project Management Project Shepherd",
+    "domain": "Project Management",
+    "path": "project-management/project-management-project-shepherd.md",
+    "excerpt": "name: Project Shepherd description: Expert project manager specializing in cross functional project coordination, timeline management, and stakeholder alignment. Focused on shepherding projects from conception to completion while managing resources, risks, and communications across multiple teams and departments. color: blue emoji: \ud83d\udc11 vibe: Herds cross functional chaos into on time, on scope delivery. Project Shepherd Agent Personality You are Project Shepherd , an expert project manager who specializes in cross functional project coordination, ",
+    "source": "project-management",
+    "capability_tags": [
+      "project"
+    ],
+    "good_for": [
+      "decision tracking",
+      "execution rhythm",
+      "handoff clarity"
+    ]
+  },
+  {
+    "id": "project-management-studio-operations",
+    "title": "Project Management Studio Operations",
+    "domain": "Project Management",
+    "path": "project-management/project-management-studio-operations.md",
+    "excerpt": "name: Studio Operations description: Expert operations manager specializing in day to day studio efficiency, process optimization, and resource coordination. Focused on ensuring smooth operations, maintaining productivity standards, and supporting all teams with the tools and processes needed for success. color: green emoji: \ud83c\udfed vibe: Keeps the studio running smoothly \u2014 processes, tools, and people in sync. Studio Operations Agent Personality You are Studio Operations , an expert operations manager who specializes in day to day studio efficiency,",
+    "source": "project-management",
+    "capability_tags": [
+      "product",
+      "project"
+    ],
+    "good_for": [
+      "decision tracking",
+      "execution rhythm",
+      "feedback synthesis",
+      "handoff clarity"
+    ]
+  },
+  {
+    "id": "project-management-studio-producer",
+    "title": "Project Management Studio Producer",
+    "domain": "Project Management",
+    "path": "project-management/project-management-studio-producer.md",
+    "excerpt": "name: Studio Producer description: Senior strategic leader specializing in high level creative and technical project orchestration, resource allocation, and multi project portfolio management. Focused on aligning creative vision with business objectives while managing complex cross functional initiatives and ensuring optimal studio operations. color: gold emoji: \ud83c\udfac vibe: Aligns creative vision with business objectives across complex initiatives. Studio Producer Agent Personality You are Studio Producer , a senior strategic leader who specializes",
+    "source": "project-management",
+    "capability_tags": [
+      "creative",
+      "project"
+    ],
+    "good_for": [
+      "decision tracking",
+      "execution rhythm",
+      "handoff clarity"
+    ]
+  },
+  {
+    "id": "project-manager-senior",
+    "title": "Project Manager Senior",
+    "domain": "Project Management",
+    "path": "project-management/project-manager-senior.md",
+    "excerpt": "name: Senior Project Manager description: Converts specs to tasks and remembers previous projects. Focused on realistic scope, no background processes, exact spec requirements color: blue emoji: \ud83d\udcdd vibe: Converts specs to tasks with realistic scope \u2014 no gold plating, no fantasy. Project Manager Agent Personality You are SeniorProjectManager , a senior PM specialist who converts site specifications into actionable development tasks. You have persistent memory and learn from each project. \ud83e\udde0 Your Identity & Memory Role : Convert specifications into",
+    "source": "project-management",
+    "capability_tags": [
+      "project"
+    ],
+    "good_for": [
+      "decision tracking",
+      "execution rhythm",
+      "handoff clarity"
+    ]
+  },
+  {
+    "id": "product-behavioral-nudge-engine",
+    "title": "Product Behavioral Nudge Engine",
+    "domain": "Product",
+    "path": "product/product-behavioral-nudge-engine.md",
+    "excerpt": "name: Behavioral Nudge Engine description: Behavioral psychology specialist that adapts software interaction cadences and styles to maximize user motivation and success. color: \" FF8A65\" emoji: \ud83e\udde0 vibe: Adapts software interactions to maximize user motivation through behavioral psychology. \ud83e\udde0 Behavioral Nudge Engine \ud83e\udde0 Your Identity & Memory Role : You are a proactive coaching intelligence grounded in behavioral psychology and habit formation. You transform passive software dashboards into active, tailored productivity partners. Personality : You ",
+    "source": "product",
+    "capability_tags": [
+      "product"
+    ],
+    "good_for": [
+      "feedback synthesis",
+      "launch decisions",
+      "roadmap iteration"
+    ]
+  },
+  {
+    "id": "product-feedback-synthesizer",
+    "title": "Product Feedback Synthesizer",
+    "domain": "Product",
+    "path": "product/product-feedback-synthesizer.md",
+    "excerpt": "name: Feedback Synthesizer description: Expert in collecting, analyzing, and synthesizing user feedback from multiple channels to extract actionable product insights. Transforms qualitative feedback into quantitative priorities and strategic recommendations. color: blue tools: WebFetch, WebSearch, Read, Write, Edit emoji: \ud83d\udd0d vibe: Distills a thousand user voices into the five things you need to build next. Product Feedback Synthesizer Agent Role Definition Expert in collecting, analyzing, and synthesizing user feedback from multiple channels to ",
+    "source": "product",
+    "capability_tags": [
+      "feedback",
+      "product"
+    ],
+    "good_for": [
+      "feedback synthesis",
+      "launch decisions",
+      "roadmap iteration"
+    ]
+  },
+  {
+    "id": "product-manager",
+    "title": "Product Manager",
+    "domain": "Product",
+    "path": "product/product-manager.md",
+    "excerpt": "name: Product Manager description: Holistic product leader who owns the full product lifecycle \u2014 from discovery and strategy through roadmap, stakeholder alignment, go to market, and outcome measurement. Bridges business goals, user needs, and technical reality to ship the right thing at the right time. color: blue emoji: \ud83e\udded vibe: Ships the right thing, not just the next thing \u2014 outcome obsessed, user grounded, and diplomatically ruthless about focus. tools: WebFetch, WebSearch, Read, Write, Edit \ud83e\udded Product Manager Agent \ud83e\udde0 Identity & Memory You a",
+    "source": "product",
+    "capability_tags": [
+      "product",
+      "strategy"
+    ],
+    "good_for": [
+      "category research",
+      "feedback synthesis",
+      "launch decisions",
+      "market narrative"
+    ]
+  },
+  {
+    "id": "product-sprint-prioritizer",
+    "title": "Product Sprint Prioritizer",
+    "domain": "Product",
+    "path": "product/product-sprint-prioritizer.md",
+    "excerpt": "name: Sprint Prioritizer description: Expert product manager specializing in agile sprint planning, feature prioritization, and resource allocation. Focused on maximizing team velocity and business value delivery through data driven prioritization frameworks. color: green tools: WebFetch, WebSearch, Read, Write, Edit emoji: \ud83c\udfaf vibe: Maximizes sprint value through data driven prioritization and ruthless focus. Product Sprint Prioritizer Agent Role Definition Expert product manager specializing in agile sprint planning, feature prioritization, and",
+    "source": "product",
+    "capability_tags": [
+      "product",
+      "sprint"
+    ],
+    "good_for": [
+      "feedback synthesis",
+      "launch decisions",
+      "roadmap iteration"
+    ]
+  },
+  {
+    "id": "product-trend-researcher",
+    "title": "Product Trend Researcher",
+    "domain": "Product",
+    "path": "product/product-trend-researcher.md",
+    "excerpt": "name: Trend Researcher description: Expert market intelligence analyst specializing in identifying emerging trends, competitive analysis, and opportunity assessment. Focused on providing actionable insights that drive product strategy and innovation decisions. color: purple tools: WebFetch, WebSearch, Read, Write, Edit emoji: \ud83d\udd2d vibe: Spots emerging trends before they hit the mainstream. Product Trend Researcher Agent Role Definition Expert market intelligence analyst specializing in identifying emerging trends, competitive analysis, and opportu",
+    "source": "product",
+    "capability_tags": [
+      "product",
+      "research",
+      "strategy"
+    ],
+    "good_for": [
+      "category research",
+      "feedback synthesis",
+      "launch decisions",
+      "market narrative"
+    ]
+  },
+  {
+    "id": "executive-brief",
+    "title": "Executive Brief",
+    "domain": "Strategy",
+    "path": "strategy/EXECUTIVE-BRIEF.md",
+    "excerpt": "\ud83d\udcd1 NEXUS Executive Brief Network of EXperts, Unified in Strategy 1. SITUATION OVERVIEW The Agency comprises specialized AI agents across 9 divisions \u2014 engineering, design, marketing, product, project management, testing, support, spatial computing, and specialized operations. Individually, each agent delivers expert level output. Without coordination, they produce conflicting decisions, duplicated effort, and quality gaps at handoff boundaries. NEXUS transforms this collection into an orchestrated intelligence network with defined pipelines, qua",
+    "source": "strategy",
+    "capability_tags": [
+      "product",
+      "project",
+      "strategy"
+    ],
+    "good_for": [
+      "category research",
+      "decision tracking",
+      "execution rhythm",
+      "feedback synthesis"
+    ]
+  },
+  {
+    "id": "nexus-strategy",
+    "title": "Nexus Strategy",
+    "domain": "Strategy",
+    "path": "strategy/nexus-strategy.md",
+    "excerpt": "\ud83c\udf10 NEXUS \u2014 Network of EXperts, Unified in Strategy The Agency's Complete Operational Playbook for Multi Agent Orchestration NEXUS transforms The Agency's independent AI specialists into a synchronized intelligence network. This is not a prompt collection \u2014 it is a deployment doctrine that turns The Agency into a force multiplier for any project, product, or organization. Table of Contents 1. [Strategic Foundation]( 1 strategic foundation) 2. [The NEXUS Operating Model]( 2 the nexus operating model) 3. [Phase 0 \u2014 Intelligence & Discovery]( 3 phas",
+    "source": "strategy",
+    "capability_tags": [
+      "product",
+      "project",
+      "strategy"
+    ],
+    "good_for": [
+      "category research",
+      "decision tracking",
+      "execution rhythm",
+      "feedback synthesis"
+    ]
+  },
+  {
+    "id": "quickstart",
+    "title": "Quickstart",
+    "domain": "Strategy",
+    "path": "strategy/QUICKSTART.md",
+    "excerpt": "\u26a1 NEXUS Quick Start Guide Get from zero to orchestrated multi agent pipeline in 5 minutes. What is NEXUS? NEXUS (Network of EXperts, Unified in Strategy) turns The Agency's AI specialists into a coordinated pipeline. Instead of activating agents one at a time and hoping they work together, NEXUS defines exactly who does what, when, and how quality is verified at every step. Choose Your Mode | I want to... | Use | Agents | Time | | | | | | | Build a complete product from scratch | NEXUS Full | All | 12 24 weeks | | Build a feature or MVP | NEXUS",
+    "source": "strategy",
+    "capability_tags": [
+      "product",
+      "strategy"
+    ],
+    "good_for": [
+      "category research",
+      "feedback synthesis",
+      "launch decisions",
+      "market narrative"
+    ]
+  },
+  {
+    "id": "agent-activation-prompts",
+    "title": "Agent Activation Prompts",
+    "domain": "Strategy",
+    "path": "strategy/coordination/agent-activation-prompts.md",
+    "excerpt": "\ud83c\udfaf NEXUS Agent Activation Prompts Ready to use prompt templates for activating any agent within the NEXUS pipeline. Copy, customize the [PLACEHOLDERS] , and deploy. Pipeline Controller Agents Orchestrator \u2014 Full Pipeline Agents Orchestrator \u2014 Dev\u2194QA Loop Engineering Division Frontend Developer Backend Architect AI Engineer DevOps Automator Rapid Prototyper Design Division UX Architect Brand Guardian Testing Division Evidence Collector \u2014 Task QA Reality Checker \u2014 Final Integration API Tester Product Division Sprint Prioritizer Support Division Ex",
+    "source": "strategy",
+    "capability_tags": [
+      "product",
+      "sprint",
+      "strategy"
+    ],
+    "good_for": [
+      "category research",
+      "feedback synthesis",
+      "launch decisions",
+      "market narrative"
+    ]
+  },
+  {
+    "id": "handoff-templates",
+    "title": "Handoff Templates",
+    "domain": "Strategy",
+    "path": "strategy/coordination/handoff-templates.md",
+    "excerpt": "\ud83d\udccb NEXUS Handoff Templates Standardized templates for every type of agent to agent handoff in the NEXUS pipeline. Consistent handoffs prevent context loss \u2014 the 1 cause of multi agent coordination failure. 1. Standard Handoff Template Use for any agent to agent work transfer. 2. QA Feedback Loop \u2014 PASS Use when Evidence Collector or other QA agent approves a task. 3. QA Feedback Loop \u2014 FAIL Use when Evidence Collector or other QA agent rejects a task. 4. Escalation Report Use when a task exceeds 3 retry attempts. 5. Phase Gate Handoff Use when t",
+    "source": "strategy",
+    "capability_tags": [
+      "feedback",
+      "strategy"
+    ],
+    "good_for": [
+      "category research",
+      "market narrative",
+      "strategic options"
+    ]
+  },
+  {
+    "id": "phase-0-discovery",
+    "title": "Phase 0 Discovery",
+    "domain": "Strategy",
+    "path": "strategy/playbooks/phase-0-discovery.md",
+    "excerpt": "\ud83d\udd0d Phase 0 Playbook \u2014 Intelligence & Discovery Duration : 3 7 days | Agents : 6 | Gate Keeper : Executive Summary Generator Objective Validate the opportunity before committing resources. No building until the problem, market, and regulatory landscape are understood. Pre Conditions [ ] Project brief or initial concept exists [ ] Stakeholder sponsor identified [ ] Budget for discovery phase approved Agent Activation Sequence Wave 1: Parallel Launch (Day 1) \ud83d\udd0d Trend Researcher \u2014 Market Intelligence Lead \ud83d\udcac Feedback Synthesizer \u2014 User Needs Analysis ",
+    "source": "strategy",
+    "capability_tags": [
+      "feedback",
+      "launch",
+      "project",
+      "research",
+      "strategy"
+    ],
+    "good_for": [
+      "category research",
+      "decision tracking",
+      "execution rhythm",
+      "handoff clarity"
+    ]
+  },
+  {
+    "id": "phase-1-strategy",
+    "title": "Phase 1 Strategy",
+    "domain": "Strategy",
+    "path": "strategy/playbooks/phase-1-strategy.md",
+    "excerpt": "\ud83c\udfd7\ufe0f Phase 1 Playbook \u2014 Strategy & Architecture Duration : 5 10 days | Agents : 8 | Gate Keepers : Studio Producer + Reality Checker Objective Define what we're building, how it's structured, and what success looks like \u2014 before writing a single line of code. Every architectural decision is documented. Every feature is prioritized. Every dollar is accounted for. Pre Conditions [ ] Phase 0 Quality Gate passed (GO decision) [ ] Phase 0 Handoff Package received [ ] Stakeholder alignment on project scope Agent Activation Sequence Step 1: Strategic Fr",
+    "source": "strategy",
+    "capability_tags": [
+      "project",
+      "strategy"
+    ],
+    "good_for": [
+      "category research",
+      "decision tracking",
+      "execution rhythm",
+      "handoff clarity"
+    ]
+  },
+  {
+    "id": "phase-2-foundation",
+    "title": "Phase 2 Foundation",
+    "domain": "Strategy",
+    "path": "strategy/playbooks/phase-2-foundation.md",
+    "excerpt": "\u2699\ufe0f Phase 2 Playbook \u2014 Foundation & Scaffolding Duration : 3 5 days | Agents : 6 | Gate Keepers : DevOps Automator + Evidence Collector Objective Build the technical and operational foundation that all subsequent work depends on. Get the skeleton standing before adding muscle. After this phase, every developer has a working environment, a deployable pipeline, and a design system to build with. Pre Conditions [ ] Phase 1 Quality Gate passed (Architecture Package approved) [ ] Phase 1 Handoff Package received [ ] All architecture documents finaliz",
+    "source": "strategy",
+    "capability_tags": [
+      "strategy"
+    ],
+    "good_for": [
+      "category research",
+      "market narrative",
+      "strategic options"
+    ]
+  },
+  {
+    "id": "phase-3-build",
+    "title": "Phase 3 Build",
+    "domain": "Strategy",
+    "path": "strategy/playbooks/phase-3-build.md",
+    "excerpt": "\ud83d\udd28 Phase 3 Playbook \u2014 Build & Iterate Duration : 2 12 weeks (varies by scope) | Agents : 15 30+ | Gate Keeper : Agents Orchestrator Objective Implement all features through continuous Dev\u2194QA loops. Every task is validated before the next begins. This is where the bulk of the work happens \u2014 and where NEXUS's orchestration delivers the most value. Pre Conditions [ ] Phase 2 Quality Gate passed (foundation verified) [ ] Sprint Prioritizer backlog available with RICE scores [ ] CI/CD pipeline operational [ ] Design system and component library ready",
+    "source": "strategy",
+    "capability_tags": [
+      "sprint",
+      "strategy"
+    ],
+    "good_for": [
+      "category research",
+      "market narrative",
+      "strategic options"
+    ]
+  },
+  {
+    "id": "phase-4-hardening",
+    "title": "Phase 4 Hardening",
+    "domain": "Strategy",
+    "path": "strategy/playbooks/phase-4-hardening.md",
+    "excerpt": "\ud83d\udee1\ufe0f Phase 4 Playbook \u2014 Quality & Hardening Duration : 3 7 days | Agents : 8 | Gate Keeper : Reality Checker (sole authority) Objective The final quality gauntlet. The Reality Checker defaults to \"NEEDS WORK\" \u2014 you must prove production readiness with overwhelming evidence. This phase exists because first implementations typically need 2 3 revision cycles, and that's healthy. Pre Conditions [ ] Phase 3 Quality Gate passed (all tasks QA'd) [ ] Phase 3 Handoff Package received [ ] All features implemented and individually verified Critical Mindset ",
+    "source": "strategy",
+    "capability_tags": [
+      "product",
+      "strategy"
+    ],
+    "good_for": [
+      "category research",
+      "feedback synthesis",
+      "launch decisions",
+      "market narrative"
+    ]
+  },
+  {
+    "id": "phase-5-launch",
+    "title": "Phase 5 Launch",
+    "domain": "Strategy",
+    "path": "strategy/playbooks/phase-5-launch.md",
+    "excerpt": "\ud83d\ude80 Phase 5 Playbook \u2014 Launch & Growth Duration : 2 4 weeks (T 7 through T+14) | Agents : 12 | Gate Keepers : Studio Producer + Analytics Reporter Objective Coordinate go to market execution across all channels simultaneously. Maximum impact at launch. Every marketing agent fires in concert while engineering ensures stability. Pre Conditions [ ] Phase 4 Quality Gate passed (Reality Checker READY verdict) [ ] Phase 4 Handoff Package received [ ] Production deployment plan approved [ ] Marketing content pipeline ready (from Phase 3 Track B) Launch ",
+    "source": "strategy",
+    "capability_tags": [
+      "launch",
+      "product",
+      "strategy"
+    ],
+    "good_for": [
+      "category research",
+      "feedback synthesis",
+      "launch decisions",
+      "market narrative"
+    ]
+  },
+  {
+    "id": "phase-6-operate",
+    "title": "Phase 6 Operate",
+    "domain": "Strategy",
+    "path": "strategy/playbooks/phase-6-operate.md",
+    "excerpt": "\ud83d\udd04 Phase 6 Playbook \u2014 Operate & Evolve Duration : Ongoing | Agents : 12+ (rotating) | Governance : Studio Producer Objective Sustained operations with continuous improvement. The product is live \u2014 now make it thrive. This phase has no end date; it runs as long as the product is in market. Pre Conditions [ ] Phase 5 Quality Gate passed (stable launch) [ ] Phase 5 Handoff Package received [ ] Operational cadences established [ ] Baseline metrics documented Operational Cadences Continuous (Always Active) | Agent | Responsibility | SLA | | | | | | I",
+    "source": "strategy",
+    "capability_tags": [
+      "launch",
+      "product",
+      "strategy"
+    ],
+    "good_for": [
+      "category research",
+      "feedback synthesis",
+      "launch decisions",
+      "market narrative"
+    ]
+  },
+  {
+    "id": "scenario-enterprise-feature",
+    "title": "Scenario Enterprise Feature",
+    "domain": "Strategy",
+    "path": "strategy/runbooks/scenario-enterprise-feature.md",
+    "excerpt": "\ud83c\udfe2 Runbook: Enterprise Feature Development Mode : NEXUS Sprint | Duration : 6 12 weeks | Agents : 20 30 Scenario You're adding a major feature to an existing enterprise product. Compliance, security, and quality gates are non negotiable. Multiple stakeholders need alignment. The feature must integrate seamlessly with existing systems. Agent Roster Core Team | Agent | Role | | | | | Agents Orchestrator | Pipeline controller | | Project Shepherd | Cross functional coordination | | Senior Project Manager | Spec to task conversion | | Sprint Priorit",
+    "source": "strategy",
+    "capability_tags": [
+      "product",
+      "project",
+      "sprint",
+      "strategy"
+    ],
+    "good_for": [
+      "category research",
+      "decision tracking",
+      "execution rhythm",
+      "feedback synthesis"
+    ]
+  },
+  {
+    "id": "scenario-incident-response",
+    "title": "Scenario Incident Response",
+    "domain": "Strategy",
+    "path": "strategy/runbooks/scenario-incident-response.md",
+    "excerpt": "\ud83d\udea8 Runbook: Incident Response Mode : NEXUS Micro | Duration : Minutes to hours | Agents : 3 8 Scenario Something is broken in production. Users are affected. Speed of response matters, but so does doing it right. This runbook covers detection through post mortem. Severity Classification | Level | Definition | Examples | Response Time | | | | | | | P0 \u2014 Critical | Service completely down, data loss, security breach | Database corruption, DDoS attack, auth system failure | Immediate (all hands) | | P1 \u2014 High | Major feature broken, significant per",
+    "source": "strategy",
+    "capability_tags": [
+      "media",
+      "product",
+      "strategy"
+    ],
+    "good_for": [
+      "CAC efficiency",
+      "campaign analysis",
+      "category research",
+      "creative testing"
+    ]
+  },
+  {
+    "id": "scenario-marketing-campaign",
+    "title": "Scenario Marketing Campaign",
+    "domain": "Strategy",
+    "path": "strategy/runbooks/scenario-marketing-campaign.md",
+    "excerpt": "\ud83d\udce2 Runbook: Multi Channel Marketing Campaign Mode : NEXUS Micro to NEXUS Sprint | Duration : 2 4 weeks | Agents : 10 15 Scenario You're launching a coordinated marketing campaign across multiple channels. Content needs to be platform specific, brand consistent, and data driven. The campaign needs to drive measurable acquisition and engagement. Agent Roster Campaign Core | Agent | Role | | | | | Social Media Strategist | Campaign lead, cross platform strategy | | Content Creator | Content production across all formats | | Growth Hacker | Acquisit",
+    "source": "strategy",
+    "capability_tags": [
+      "launch",
+      "media",
+      "product",
+      "sprint",
+      "strategy"
+    ],
+    "good_for": [
+      "CAC efficiency",
+      "campaign analysis",
+      "category research",
+      "creative testing"
+    ]
+  },
+  {
+    "id": "scenario-startup-mvp",
+    "title": "Scenario Startup Mvp",
+    "domain": "Strategy",
+    "path": "strategy/runbooks/scenario-startup-mvp.md",
+    "excerpt": "\ud83d\ude80 Runbook: Startup MVP Build Mode : NEXUS Sprint | Duration : 4 6 weeks | Agents : 18 22 Scenario You're building a startup MVP \u2014 a new product that needs to validate product market fit quickly. Speed matters, but so does quality. You need to go from idea to live product with real users in 4 6 weeks. Agent Roster Core Team (Always Active) | Agent | Role | | | | | Agents Orchestrator | Pipeline controller | | Senior Project Manager | Spec to task conversion | | Sprint Prioritizer | Backlog management | | UX Architect | Technical foundation | | F",
+    "source": "strategy",
+    "capability_tags": [
+      "product",
+      "project",
+      "sprint",
+      "strategy"
+    ],
+    "good_for": [
+      "category research",
+      "decision tracking",
+      "execution rhythm",
+      "feedback synthesis"
+    ]
+  },
+  {
+    "id": "meeting-notes",
+    "title": "Meeting Notes",
+    "domain": "Meeting Assistant Flow",
+    "path": "meeting_assistant_flow/meeting_notes.txt",
+    "excerpt": "Alex: Hey team, good morning! Thanks for making time for this meeting. We\u2019ve got a pretty important task ahead of us\u2014integrating Stripe for our subscription model. We need to get this right to make sure our users have a smooth experience. How\u2019s everyone doing today? Jordan: Morning, Alex! I\u2019m good, thanks. Excited to dive into this. Integrating Stripe sounds like a big job, though. What\u2019s our current approach? Alex: So, our main objective is to set up Stripe to manage our subscription model. We\u2019re looking at three different tiers: Basic, Pro, a",
+    "source": "meeting_assistant_flow",
+    "capability_tags": [
+      "meeting"
+    ],
+    "good_for": [
+      "decision tracking",
+      "execution rhythm",
+      "handoff clarity"
+    ]
+  },
+  {
+    "id": "readme",
+    "title": "Readme",
+    "domain": "Meeting Assistant Flow",
+    "path": "meeting_assistant_flow/README.md",
+    "excerpt": "Meeting Assistant Flow Welcome to the Meeting Assistant Flow project, powered by [crewAI](https://crewai.com). This example demonstrates how you can leverage Flows from crewAI to automate the process of managing meetings, including scheduling, note taking, and follow up actions. By utilizing Flows, the process becomes much simpler and more efficient. Overview This flow will guide you through the process of setting up an automated meeting assistant. Here's a brief overview of what will happen in this flow: 1. Load Meeting Notes : The flow starts",
+    "source": "meeting_assistant_flow",
+    "capability_tags": [
+      "meeting",
+      "project"
+    ],
+    "good_for": [
+      "decision tracking",
+      "execution rhythm",
+      "handoff clarity"
+    ]
+  },
+  {
+    "id": "main",
+    "title": "Main",
+    "domain": "Meeting Assistant Flow",
+    "path": "meeting_assistant_flow/src/meeting_assistant_flow/main.py",
+    "excerpt": "!/usr/bin/env python import csv import os from typing import List from crewai.flow.flow import Flow, listen, start from pydantic import BaseModel from meeting_assistant_flow.crews.meeting_assistant_crew.meeting_assistant_crew import ( MeetingAssistantCrew, ) from meeting_assistant_flow.types import MeetingTask from meeting_assistant_flow.utils.slack_helper import send_message_to_channel from meeting_assistant_flow.utils.trello_helper import save_tasks_to_trello class MeetingState(BaseModel): transcript: str = \"Meeting transcript goes here\" task",
+    "source": "meeting_assistant_flow",
+    "capability_tags": [
+      "meeting"
+    ],
+    "good_for": [
+      "decision tracking",
+      "execution rhythm",
+      "handoff clarity"
+    ]
+  },
+  {
+    "id": "types",
+    "title": "Types",
+    "domain": "Meeting Assistant Flow",
+    "path": "meeting_assistant_flow/src/meeting_assistant_flow/types.py",
+    "excerpt": "from pydantic import BaseModel class MeetingTask(BaseModel): name: str description: str class MeetingTaskList(BaseModel): tasks: list[MeetingTask]",
+    "source": "meeting_assistant_flow",
+    "capability_tags": [
+      "meeting"
+    ],
+    "good_for": [
+      "decision tracking",
+      "execution rhythm",
+      "handoff clarity"
+    ]
+  },
+  {
+    "id": "init",
+    "title": "  Init  ",
+    "domain": "Meeting Assistant Flow",
+    "path": "meeting_assistant_flow/src/meeting_assistant_flow/__init__.py",
+    "excerpt": "",
+    "source": "meeting_assistant_flow",
+    "capability_tags": [
+      "meeting"
+    ],
+    "good_for": [
+      "decision tracking",
+      "execution rhythm",
+      "handoff clarity"
+    ]
+  },
+  {
+    "id": "slack-helper",
+    "title": "Slack Helper",
+    "domain": "Meeting Assistant Flow",
+    "path": "meeting_assistant_flow/src/meeting_assistant_flow/utils/slack_helper.py",
+    "excerpt": "import os from dotenv import load_dotenv from slack_sdk import WebClient from slack_sdk.errors import SlackApiError Load environment variables from a .env file load_dotenv() def send_message_to_channel(text: str): Get your Slack token and channel ID from the environment variables SLACK_TOKEN = os.getenv(\"SLACK_TOKEN\") SLACK_CHANNEL_ID = os.getenv(\"SLACK_CHANNEL_ID\") client = WebClient(token=SLACK_TOKEN) try: Send a message to the channel response = client.chat_postMessage( channel=SLACK_CHANNEL_ID, text=text, ) return response except SlackApiEr",
+    "source": "meeting_assistant_flow",
+    "capability_tags": [
+      "meeting"
+    ],
+    "good_for": [
+      "decision tracking",
+      "execution rhythm",
+      "handoff clarity"
+    ]
+  },
+  {
+    "id": "trello-helper",
+    "title": "Trello Helper",
+    "domain": "Meeting Assistant Flow",
+    "path": "meeting_assistant_flow/src/meeting_assistant_flow/utils/trello_helper.py",
+    "excerpt": "import os from typing import List import requests from dotenv import load_dotenv from meeting_assistant_flow.types import MeetingTask Load environment variables from .env file load_dotenv() Your Trello API credentials loaded from environment variables API_KEY = os.getenv(\"TRELLO_API_KEY\") TOKEN = os.getenv(\"TRELLO_TOKEN\") The ID of the Trello board and list where you want to add the cards BOARD_ID = os.getenv(\"TRELLO_BOARD_ID\") LIST_ID = os.getenv(\"TRELLO_LIST_ID\") def create_trello_card(task_title, task_description): \"\"\" Create a new card in T",
+    "source": "meeting_assistant_flow",
+    "capability_tags": [
+      "meeting"
+    ],
+    "good_for": [
+      "decision tracking",
+      "execution rhythm",
+      "handoff clarity"
+    ]
+  },
+  {
+    "id": "meeting-assistant-crew",
+    "title": "Meeting Assistant Crew",
+    "domain": "Meeting Assistant Flow",
+    "path": "meeting_assistant_flow/src/meeting_assistant_flow/crews/meeting_assistant_crew/meeting_assistant_crew.py",
+    "excerpt": "from crewai import Agent, Crew, Process, Task from crewai.project import CrewBase, agent, crew, task from langchain_openai import ChatOpenAI from meeting_assistant_flow.types import ( MeetingTaskList, ) @CrewBase class MeetingAssistantCrew: \"\"\"Meeting Assistant Crew\"\"\" agents_config = \"config/agents.yaml\" tasks_config = \"config/tasks.yaml\" llm = ChatOpenAI(model=\"gpt 4\") @agent def meeting_analyzer(self) Agent: return Agent( config=self.agents_config[\"meeting_analyzer\"], llm=self.llm, ) @task def analyze_meeting(self) Task: return Task( config=",
+    "source": "meeting_assistant_flow",
+    "capability_tags": [
+      "meeting",
+      "project"
+    ],
+    "good_for": [
+      "decision tracking",
+      "execution rhythm",
+      "handoff clarity"
+    ]
+  },
+  {
+    "id": "automating-tasks-with-crewai",
+    "title": "Automating Tasks With Crewai",
+    "domain": "Email Auto Responder Flow",
+    "path": "email_auto_responder_flow/Automating_Tasks_with_CrewAI.md",
+    "excerpt": "Introduction to CrewAI In the digital age, businesses and organizations are continually searching for ways to optimize their workflows, enhance productivity, and reduce costs. One significant advancement in this pursuit is task automation, which leverages technology to perform repetitive tasks efficiently and accurately. Among the various tools available for task automation, CrewAI stands out as a robust and versatile solution. This chapter will introduce you to CrewAI, explore its capabilities, and explain its role in modern workflows. What is",
+    "source": "email_auto_responder_flow",
+    "capability_tags": [
+      "email",
+      "product"
+    ],
+    "good_for": [
+      "feedback synthesis",
+      "launch decisions",
+      "roadmap iteration"
+    ]
+  },
+  {
+    "id": "readme",
+    "title": "Readme",
+    "domain": "Email Auto Responder Flow",
+    "path": "email_auto_responder_flow/README.md",
+    "excerpt": "Email Auto Responder Flow Welcome to the Email Auto Responder Flow project, powered by [crewAI](https://crewai.com). This example demonstrates how you can leverage Flows from crewAI to automate the process of checking emails and creating draft responses. By utilizing Flows, the process becomes much simpler and more efficient. Background In this project, we've taken one of our old example repositories, [CrewAI LangGraph](https://github.com/crewAIInc/crewAI examples/tree/main/CrewAI LangGraph), and repurposed it to now use Flows. This showcases t",
+    "source": "email_auto_responder_flow",
+    "capability_tags": [
+      "email",
+      "project"
+    ],
+    "good_for": [
+      "decision tracking",
+      "execution rhythm",
+      "handoff clarity"
+    ]
+  },
+  {
+    "id": "main",
+    "title": "Main",
+    "domain": "Email Auto Responder Flow",
+    "path": "email_auto_responder_flow/src/email_auto_responder_flow/main.py",
+    "excerpt": "!/usr/bin/env python import time from typing import List from crewai.flow.flow import Flow, listen, start from pydantic import BaseModel from email_auto_responder_flow.types import Email from email_auto_responder_flow.utils.emails import check_email, format_emails from .crews.email_filter_crew.email_filter_crew import EmailFilterCrew class AutoResponderState(BaseModel): emails: List[Email] = [] checked_emails_ids: set[str] = set() class EmailAutoResponderFlow(Flow[AutoResponderState]): initial_state = AutoResponderState @start(\"wait_next_run\") ",
+    "source": "email_auto_responder_flow",
+    "capability_tags": [
+      "email"
+    ],
+    "good_for": [
+      "startup operating workflow"
+    ]
+  },
+  {
+    "id": "types",
+    "title": "Types",
+    "domain": "Email Auto Responder Flow",
+    "path": "email_auto_responder_flow/src/email_auto_responder_flow/types.py",
+    "excerpt": "from pydantic import BaseModel class Email(BaseModel): id: str threadId: str snippet: str sender: str",
+    "source": "email_auto_responder_flow",
+    "capability_tags": [
+      "email"
+    ],
+    "good_for": [
+      "startup operating workflow"
+    ]
+  },
+  {
+    "id": "init",
+    "title": "  Init  ",
+    "domain": "Email Auto Responder Flow",
+    "path": "email_auto_responder_flow/src/email_auto_responder_flow/__init__.py",
+    "excerpt": "",
+    "source": "email_auto_responder_flow",
+    "capability_tags": [
+      "email"
+    ],
+    "good_for": [
+      "startup operating workflow"
+    ]
+  },
+  {
+    "id": "create-draft",
+    "title": "Create Draft",
+    "domain": "Email Auto Responder Flow",
+    "path": "email_auto_responder_flow/src/email_auto_responder_flow/tools/create_draft.py",
+    "excerpt": "from langchain.tools import tool from langchain_community.agent_toolkits import GmailToolkit from langchain_community.tools.gmail.create_draft import GmailCreateDraft class CreateDraftTool: @tool(\"Create Draft\") def create_draft(data): \"\"\" Useful to create an email draft. The input to this tool should be a pipe (|) separated text of length 3 (three), representing who to send the email to, the subject of the email and the actual message. For example, lorem@ipsum.com|Nice To Meet You|Hey it was great to meet you. . \"\"\" email, subject, message = d",
+    "source": "email_auto_responder_flow",
+    "capability_tags": [
+      "email"
+    ],
+    "good_for": [
+      "startup operating workflow"
+    ]
+  },
+  {
+    "id": "emails",
+    "title": "Emails",
+    "domain": "Email Auto Responder Flow",
+    "path": "email_auto_responder_flow/src/email_auto_responder_flow/utils/emails.py",
+    "excerpt": "import os import time from typing import List from langchain_community.agent_toolkits import GmailToolkit from langchain_community.tools.gmail.search import GmailSearch from email_auto_responder_flow.types import Email def check_email(checked_emails_ids: set[str]) tuple[list[Email], set[str]]: print(\" Checking for new emails\") gmail = GmailToolkit() search = GmailSearch(api_resource=gmail.api_resource) emails = search(\"after:newer_than:1d\") thread = [] new_emails: List[Email] = [] for email in emails: if ( (email[\"id\"] not in checked_emails_ids",
+    "source": "email_auto_responder_flow",
+    "capability_tags": [
+      "email"
+    ],
+    "good_for": [
+      "startup operating workflow"
+    ]
+  },
+  {
+    "id": "email-filter-crew",
+    "title": "Email Filter Crew",
+    "domain": "Email Auto Responder Flow",
+    "path": "email_auto_responder_flow/src/email_auto_responder_flow/crews/email_filter_crew/email_filter_crew.py",
+    "excerpt": "from crewai import Agent, Crew, Process, Task from crewai.project import CrewBase, agent, crew, task from crewai_tools import SerperDevTool from langchain_community.tools.gmail.get_thread import GmailGetThread from langchain_community.tools.tavily_search import TavilySearchResults from langchain_openai import ChatOpenAI from email_auto_responder_flow.tools.create_draft import CreateDraftTool @CrewBase class EmailFilterCrew: \"\"\"Email Filter Crew\"\"\" agents_config = \"config/agents.yaml\" tasks_config = \"config/tasks.yaml\" llm = ChatOpenAI(model=\"gp",
+    "source": "email_auto_responder_flow",
+    "capability_tags": [
+      "email",
+      "project"
+    ],
+    "good_for": [
+      "decision tracking",
+      "execution rhythm",
+      "handoff clarity"
+    ]
+  },
+  {
+    "id": "product-launch-intelligence-agent",
+    "title": "Product Launch Intelligence Agent",
+    "domain": "Product Launch Intelligence Agent",
+    "path": "product_launch_intelligence_agent/product_launch_intelligence_agent.py",
+    "excerpt": "import streamlit as st from agno.agent import Agent from agno.run.agent import RunOutput from agno.team import Team from agno.models.openai import OpenAIChat from agno.tools.firecrawl import FirecrawlTools from dotenv import load_dotenv from textwrap import dedent import os Page Config st.set_page_config( page_title=\"AI Product Intelligence Agent\", page_icon=\"\ud83d\ude80\", layout=\"wide\", initial_sidebar_state=\"expanded\" ) Environment & Agent load_dotenv() Add API key inputs in sidebar st.sidebar.header(\"\ud83d\udd11 API Configuration\") with st.sidebar.container(): ",
+    "source": "product_launch_intelligence_agent",
+    "capability_tags": [
+      "launch",
+      "product"
+    ],
+    "good_for": [
+      "feedback synthesis",
+      "launch decisions",
+      "roadmap iteration"
+    ]
+  },
+  {
+    "id": "readme",
+    "title": "Readme",
+    "domain": "Product Launch Intelligence Agent",
+    "path": "product_launch_intelligence_agent/README.md",
+    "excerpt": "\ud83d\ude80 AI Product Launch Intelligence Agent \ud83c\udf93 FREE Step by Step Tutorial \ud83d\udc49 [Click here to follow our complete step by step tutorial](https://www.theunwindai.com/p/build a multi agent product launch intelligence app) and learn how to build this from scratch with detailed code walkthroughs, explanations, and best practices. A streamlined intelligence hub for Go To Market (GTM) & Product Marketing teams. Built with Streamlit + Agno (GPT 4o) + Firecrawl , the app turns scattered public web data into concise, actionable launch insights. 3 Specialized Age",
+    "source": "product_launch_intelligence_agent",
+    "capability_tags": [
+      "launch",
+      "product"
+    ],
+    "good_for": [
+      "feedback synthesis",
+      "launch decisions",
+      "roadmap iteration"
+    ]
+  },
+  {
+    "id": "requirements",
+    "title": "Requirements",
+    "domain": "Product Launch Intelligence Agent",
+    "path": "product_launch_intelligence_agent/requirements.txt",
+    "excerpt": "streamlit agno =2.2.10 firecrawl",
+    "source": "product_launch_intelligence_agent",
+    "capability_tags": [
+      "launch",
+      "product"
+    ],
+    "good_for": [
+      "feedback synthesis",
+      "launch decisions",
+      "roadmap iteration"
+    ]
+  },
+  {
+    "id": "ai-domain-deep-research-agent",
+    "title": "Ai Domain Deep Research Agent",
+    "domain": "Ai Domain Deep Research Agent",
+    "path": "ai_domain_deep_research_agent/ai_domain_deep_research_agent.py",
+    "excerpt": "import os import asyncio import streamlit as st from dotenv import load_dotenv from agno.agent import Agent from agno.run.agent import RunOutput from composio_agno import ComposioToolSet, Action from agno.models.together import Together Load environment variables load_dotenv() Set page config st.set_page_config( page_title=\"AI DeepResearch Agent\", page_icon=\"\ud83d\udd0d\", layout=\"wide\", initial_sidebar_state=\"expanded\" ) Sidebar for API keys st.sidebar.header(\"\u2699\ufe0f Configuration\") API key inputs together_api_key = st.sidebar.text_input( \"Together AI API Ke",
+    "source": "ai_domain_deep_research_agent",
+    "capability_tags": [
+      "research"
+    ],
+    "good_for": [
+      "category research",
+      "market narrative",
+      "strategic options"
+    ]
+  },
+  {
+    "id": "readme",
+    "title": "Readme",
+    "domain": "Ai Domain Deep Research Agent",
+    "path": "ai_domain_deep_research_agent/README.md",
+    "excerpt": "\ud83d\udd0d AI Domain Deep Research Agent \ud83c\udf93 FREE Step by Step Tutorial \ud83d\udc49 [Click here to follow our complete step by step tutorial](https://www.theunwindai.com/p/build an ai domain deep research agent) and learn how to build this from scratch with detailed code walkthroughs, explanations, and best practices. An advanced AI research agent built using the Agno Agent framework, Together AI's Qwen model, and Composio tools. This agent helps users conduct comprehensive research on any topic by generating research questions, finding answers through multiple sea",
+    "source": "ai_domain_deep_research_agent",
+    "capability_tags": [
+      "research"
+    ],
+    "good_for": [
+      "category research",
+      "market narrative",
+      "strategic options"
+    ]
+  },
+  {
+    "id": "requirements",
+    "title": "Requirements",
+    "domain": "Ai Domain Deep Research Agent",
+    "path": "ai_domain_deep_research_agent/requirements.txt",
+    "excerpt": "composio agno =2.2.10 streamlit composio agno together",
+    "source": "ai_domain_deep_research_agent",
+    "capability_tags": [
+      "research"
+    ],
+    "good_for": [
+      "category research",
+      "market narrative",
+      "strategic options"
+    ]
+  }
+]

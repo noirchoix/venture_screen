@@ -1,0 +1,147 @@
+[
+  {
+    "id": "yc_f2026",
+    "name": "Y Combinator — Fall 2026",
+    "version": "2026-08-13",
+    "captured_at": "2026-08-13",
+    "source_url": "https://apply.ycombinator.com/",
+    "status": "late_applications_open",
+    "notes": [
+      "Fall 2026 runs October–December in San Francisco.",
+      "The on-time deadline was July 27, 2026; late applications are still considered.",
+      "This adapter scores readiness using public YC guidance and does not estimate acceptance probability."
+    ],
+    "weights": {
+      "founder_team": 0.20,
+      "problem": 0.14,
+      "market": 0.14,
+      "traction": 0.18,
+      "differentiation": 0.14,
+      "technical_execution": 0.10,
+      "application_quality": 0.10
+    },
+    "eligibility_rules": [],
+    "readiness_thresholds": {"strong": 74, "moderate": 58}
+  },
+  {
+    "id": "techstars_general_2026",
+    "name": "Techstars — General Pool / Program Fit 2026",
+    "version": "2026-08-13",
+    "captured_at": "2026-08-13",
+    "source_url": "https://www.techstars.com/blog/founder-advice/inside-a-techstars-accelerator-the-application-and-interview-process",
+    "status": "program_specific",
+    "notes": [
+      "Techstars applications can be considered by the general pool and selected programs.",
+      "Public guidance emphasizes team history, execution, customer/problem understanding, progress, market, and unfair advantage.",
+      "Specific Techstars programs may add geography or vertical constraints not represented by this general adapter."
+    ],
+    "weights": {
+      "founder_team": 0.25,
+      "problem": 0.14,
+      "market": 0.14,
+      "traction": 0.15,
+      "differentiation": 0.18,
+      "technical_execution": 0.07,
+      "application_quality": 0.07
+    },
+    "eligibility_rules": [],
+    "readiness_thresholds": {"strong": 74, "moderate": 58}
+  },
+  {
+    "id": "antler_residency_2026",
+    "name": "Antler Residency — 2026",
+    "version": "2026-08-13",
+    "captured_at": "2026-08-13",
+    "source_url": "https://www.antler.co/apply",
+    "status": "location_dependent",
+    "notes": [
+      "Antler publicly describes a founder-first selection process focused on profile, vision, trajectory, drive and judgment.",
+      "Applicants select a residency location and must satisfy visa/entry requirements for that location.",
+      "The adapter flags missing location/visa evidence as an applicability warning rather than inventing eligibility."
+    ],
+    "weights": {
+      "founder_team": 0.34,
+      "problem": 0.12,
+      "market": 0.12,
+      "traction": 0.10,
+      "differentiation": 0.12,
+      "technical_execution": 0.10,
+      "application_quality": 0.10
+    },
+    "eligibility_rules": [
+      {
+        "id": "antler_location",
+        "type": "exists",
+        "field": "geography",
+        "severity": "warning",
+        "message": "A preferred residency location and visa/entry feasibility should be confirmed before treating this as an actionable application target."
+      }
+    ],
+    "readiness_thresholds": {"strong": 76, "moderate": 60}
+  },
+  {
+    "id": "500_eurasia_b11_2026",
+    "name": "500 Global Accelerator — Eurasia Batch 11",
+    "version": "2026-08-13",
+    "captured_at": "2026-08-13",
+    "source_url": "https://500.co/founders/eurasia/accelerator",
+    "status": "deadline_passed",
+    "notes": [
+      "Batch 11 is scheduled for September 21–December 11, 2026.",
+      "The final published application deadline was August 9, 2026.",
+      "The program targets startups with Eurasia operations, a functional prototype, early revenue, global-market potential, and a cross-functional team."
+    ],
+    "weights": {
+      "founder_team": 0.16,
+      "problem": 0.10,
+      "market": 0.18,
+      "traction": 0.23,
+      "differentiation": 0.12,
+      "technical_execution": 0.12,
+      "application_quality": 0.09
+    },
+    "eligibility_rules": [
+      {
+        "id": "eurasia_geography",
+        "type": "geography_any",
+        "field": "geography",
+        "severity": "hard",
+        "values": ["Albania","Armenia","Azerbaijan","Bosnia & Herzegovina","Bulgaria","Croatia","Cyprus","Czechia","Estonia","Georgia","Greece","Hungary","Kazakhstan","Kosovo","Kyrgyzstan","Latvia","Lithuania","North Macedonia","Moldova","Montenegro","Poland","Romania","Serbia","Slovakia","Slovenia","Tajikistan","Turkmenistan","Ukraine","Uzbekistan"],
+        "message": "500 Global Eurasia Batch 11 requires direct or indirect operations in one of the published eligible countries."
+      },
+      {
+        "id": "eurasia_stage",
+        "type": "stage_in",
+        "field": "stage",
+        "severity": "hard",
+        "values": ["early_revenue","growth"],
+        "message": "The published target profile is early-revenue startup stage."
+      },
+      {
+        "id": "eurasia_revenue",
+        "type": "number_gt",
+        "field": "revenue_monthly_usd",
+        "severity": "hard",
+        "value": 0,
+        "message": "Published program criteria call for early revenue."
+      },
+      {
+        "id": "eurasia_prototype",
+        "type": "stage_not",
+        "field": "stage",
+        "severity": "hard",
+        "value": "idea",
+        "message": "Published program criteria call for a functional prototype."
+      },
+      {
+        "id": "eurasia_team",
+        "type": "founder_count_min",
+        "field": "founders",
+        "severity": "warning",
+        "value": 2,
+        "message": "The published target profile calls for a cross-functional team; a one-person team should document how this requirement is met."
+      }
+    ],
+    "readiness_thresholds": {"strong": 76, "moderate": 61}
+  }
+]
