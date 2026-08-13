@@ -218,14 +218,5 @@ The repository is production-shaped but deliberately conservative:
 - Keep LLMs optional. The current screening and scoring core is deterministic and does not require an API key.
 - If an LLM is later used for narrative synthesis, it should receive evidence IDs and must not alter deterministic scores or eligibility gates.
 
-## Donor map
-
-| Old project | Reused / adapted capability |
-| --- | --- |
-| `startup_command` | specialist resources and startup/operator concepts |
-| `startup_catalog` | cleaner capability taxonomy and resource metadata |
-| `workflow_build` | typed workflow/gate concepts; converted into evidence-producing remediation workflows |
-| `multi_agent` | claim/evidence, confidence, session/run ideas; converted from pseudo-agents into scoped reviewer outputs |
-| `mcp_scout` | capability-registry concept; used as a basis for bounded research/tool architecture rather than a standalone product |
 
 The application is intentionally **one system**, not a menu of nominal agents.
