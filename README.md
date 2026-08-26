@@ -1,8 +1,23 @@
 # Venture Screening Intelligence
 
-Evidence-grounded startup diligence, accelerator-readiness screening, competitive redundancy analysis, current opportunity matching, and evidence-producing validation workflows.
+An evidence-driven startup screening and validation system that avoids speculative acceptance predictions. It ingests founder documents and repository evidence, performs interpretable competitor/opportunity retrieval, applies versioned program rules, and turns weak evidence dimensions into explicit validation work.
 
-This project consolidates the useful technical assets from `startup_command`, `startup_catalog`, `workflow_build`, `multi_agent`, and selected `mcp_scout` concepts into one production-shaped system. The old agent catalogs are retained in `apps/api/data/legacy_agents_*.json` as donor resources; they are not exposed as pretend independent experts.
+## Engineering profile
+
+This repository demonstrates:
+
+- FastAPI + SvelteKit separation of ingestion, evidence, scoring, retrieval, and workflow services
+- PDF, DOCX, text/structured, and repository ZIP ingestion
+- Safe ZIP handling with traversal protections; uploaded repositories are treated as data, not executed
+- SQLite persistence for company, document, and screening evidence
+- TF-IDF + cosine competitor/opportunity retrieval with structured overlap logic
+- Versioned accelerator/program adapters and deterministic eligibility/scoring rules
+- Contradiction and evidence-sufficiency handling
+- CI, backend tests, frontend checks/build, and Docker support
+
+## Reliability and scope
+
+This repository is a decision-support system, not a probability oracle. It should not be described as predicting accelerator acceptance from sparse founder materials.
 
 ## Product thesis
 
